@@ -38,7 +38,7 @@
     <repository>
       <id>github</id>
       <name>github Packages</name>
-      <url>https://maven.pkg.github.com/NithyaGowri/maven-project</url>
+      <url>https://maven.pkg.github.com/NithyaGowri/GHA-JavaMaven</url>
     </repository>
   </distributionManagement>
 </project>
